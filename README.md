@@ -75,7 +75,7 @@ It is an unsupervised learning method; hence no supervision is provided to the a
 # Conclusion
 In conclusion, tailored recommendations can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains.
 It will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-kartikdhande007)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/
+kartikdhande007](https://www.linkedin.com/in/kartikdhande007?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTmA5ZZefTJ2mN60JKgSP4g%3D%3D))
   
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikDhande007/)
