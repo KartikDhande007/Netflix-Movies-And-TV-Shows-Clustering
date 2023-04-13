@@ -49,6 +49,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * listed_in : Genere
 * description: The Summary description
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 # Dash Web App:
 NetflixRecommender recommends Netflix movies and TV shows based on a user's favourite movie or TV show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions. The motivation behind this project is to develop a deeper understanding of recommender systems. Specifically, thinking about how companies like Netflix and YouTube create algorithms to tailor content based on user interests and behaviour.
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
